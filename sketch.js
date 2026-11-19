@@ -8,6 +8,7 @@ function draw() {
 
   angleMode(DEGREES);
   translate(200,200);
+  FileList(255, 0, 255);
   r++;
   rotate(r);
   rectMode(CENTER);
